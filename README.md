@@ -1,2 +1,2 @@
-# first_website
-Hey, this is my first website
+# Deep-Learning-Model
+Hey, this is my first AI Model that I've trained.
