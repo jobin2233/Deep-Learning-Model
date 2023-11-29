@@ -1,4 +1,4 @@
-                                                                                   # Deep-Learning-Model
+   ## Deep-Learning-Model
 # Lung Cancer Prediction Model
 
 ## Overview
