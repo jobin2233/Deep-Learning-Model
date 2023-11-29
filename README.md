@@ -1,17 +1,46 @@
-# Deep-Learning-Model
+                                                                                   # Deep-Learning-Model
 # Lung Cancer Prediction Model
 
 ## Overview
-This project aims to develop a predictive model for assessing the risk of lung cancer in patients. The model predicts the likelihood of a patient being at low, medium, or high risk based on various features. The dataset includes information such as age, gender, air pollution exposure, lifestyle factors, and medical history.
+This project aims to develop an AI model for assessing the risk of lung cancer in patients. The model predicts the likelihood of a patient being at low, medium, or high risk based on various features. The dataset includes information such as age, gender, air pollution exposure, lifestyle factors, and medical history.
 
 ## Dataset
 The dataset (`cancer patient data sets.csv`) is loaded into a Pandas DataFrame (`df`). The features include:
 
-**Demographic Information:** Age, Gender
-**Environmental Factors:** Air Pollution, Alcohol use, Dust Allergy, OccuPational Hazards
-**Genetic and Medical History:** Genetic Risk, Chronic Lung Disease
-**Lifestyle Factors:** Balanced Diet, Obesity, Smoking, Passive Smoker
-**Symptoms:** Chest Pain, Coughing of Blood, Fatigue, Weight Loss, Shortness of Breath, Wheezing, Swallowing Difficulty, Clubbing of Finger Nails, Frequent Cold, Dry Cough, Snoring
+# Features
+
+## Personal Information.
+- Age
+- Gender
+
+## Environmental Factors
+- Air Pollution
+- Alcohol Use
+- Dust Allergy
+- Occupational Hazards
+
+## Genetic and Medical History
+- Genetic Risk
+- Chronic Lung Disease
+
+## Lifestyle Factors
+- Balanced Diet
+- Obesity
+- Smoking
+- Passive Smoker
+
+## Symptoms
+- Chest Pain
+- Coughing of Blood
+- Fatigue
+- Weight Loss
+- Shortness of Breath
+- Wheezing
+- Swallowing Difficulty
+- Clubbing of Finger Nails
+- Frequent Cold
+- Dry Cough
+- Snoring
 
 The target variable is 'Level,' indicating the risk category.
 
